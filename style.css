@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.color-box {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    display: inline-block;
+  }
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
